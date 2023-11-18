@@ -1,12 +1,12 @@
-# Qwik Instagram
+# Angular Instagram
 
-This repository contains code of a learning project called: "Qwik Instagram".
+This repository contains code of a learning project called: "Angular Instagram".
 
-It's purpose is to build Instagram using the Qwik framework.
+It's purpose is to build Instagram using the Angular framework.
 
 ## Learning
 
-- Qwik
+- Angular
 - Accessibility
 - Performance
 - Semantic HTML

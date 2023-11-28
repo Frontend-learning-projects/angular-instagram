@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Angular Instagram
 
 This repository contains code of a learning project called: "Angular Instagram".
